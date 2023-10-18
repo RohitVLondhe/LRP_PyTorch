@@ -1,2 +1,2 @@
 # LRP_PyTorch
-install torch and torchvision before running the file main.py
+install torch, torchvision and matplotlib before running the file main.py
